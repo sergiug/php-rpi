@@ -1,0 +1,12 @@
+{
+    "name": "sergiug/php-rpi",
+    "description": "PHP-RPI Library",
+    "authors": [
+        {
+            "name": "Sergiu Gilca",
+            "email": "sergiu.devel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
